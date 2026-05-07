@@ -257,12 +257,6 @@ The models were evaluated using:
 
 ---
 
-## Global Temperature Distribution Map
-
-![Global Temperature Map](visuals/global_temperature_map.png)
-
----
-
 ## Environmental Anomaly Detection
 
 ![Anomaly Detection](visuals/anomaly_detection.png)
