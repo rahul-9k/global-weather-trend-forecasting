@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+xgboost
+statsmodels
+prophet
+shap
+folium
+geopandas
+jupyter
+ipykernel
+nbformat
+kagglehub
+python-dotenv
