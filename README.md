@@ -19,6 +19,12 @@ The analysis combines statistical exploration, machine learning, and visualizati
 
 ---
 
+## Project Presentation
+
+The complete project presentation summarizing preprocessing, EDA, advanced analyses, forecasting models, and key insights is available in the `reports/` directory.
+
+---
+
 ## Objectives
 
 The main objectives of this project are:
